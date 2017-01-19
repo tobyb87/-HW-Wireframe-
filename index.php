@@ -1,1 +1,1 @@
-<?php include_once("Documents/HW-Wireframe/index.html"); ?>
+<?php include_once("index.html"); ?>
